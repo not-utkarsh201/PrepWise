@@ -86,6 +86,10 @@ async function Home() {
             <p>There are no interviews available</p>
           )}
         </div>
+        <div>
+          Created By Utkarsh
+          <a href="https://github.com/not-utkarsh201/PrepWise">Github</a>
+        </div>
       </section>
     </>
   );
